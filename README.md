@@ -159,7 +159,7 @@ SQL is used to calculate sales metrics and identify top-performing products.
 <h3>📸 Project Screenshots</h3>
 
 <p align="center">
-<img src="screenshots/task4.png" width="800">
+<img src="screenshots/task4.jpg" width="800">
 </p>
 
 <p>
